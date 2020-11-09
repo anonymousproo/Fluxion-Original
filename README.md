@@ -30,7 +30,7 @@ The MAC address of the fake access point differs by one octet from the original 
 
 before you do the following steps.
 
-Download  clone. https://github.com/anonymousproo/fluxion
+Download  clone. https://github.com/anonymousproo/Fluxion-Original.git
 
 ## Switch to tool's directory
 
