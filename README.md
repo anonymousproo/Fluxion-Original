@@ -68,9 +68,6 @@ we are fluxion tool handshake solved the problem
 2. Lighttpd : 1.439-1
 3. Hostapd  : 1:2.3-2.3 _If you want to compare this type `dpkg -l | grep "name"`_
 
-## :scroll: Changelog
-Fluxion gets weekly updates with new features, improvements and bugfixes.
-Be sure to check out the [changelog here](https://github.com/FluxionNetwork/fluxion/commits/master).
 
 ## :octocat: How to contribute
 All contributions are welcome! Code, documentation, graphics or even design suggestions are welcome; use GitHub to its fullest. Submit pull requests, contribute tutorials or other wiki content -- whatever you have to offer, it would be appreciated!
@@ -86,21 +83,25 @@ All contributions are welcome! Code, documentation, graphics or even design sugg
 * Each submitted password is verified by the handshake captured earlier
 * The attack will automatically terminate, as soon as a correct password is submitted
 
-## :heavy_exclamation_mark: Requirements
+## :heavy_exclamation_mark: Requirements 
 
-A Linux-based operating system. We recommend Kali Linux 2019.4. Without external wifi card is recommended.
+A Linux-based operating system. We recommend Kali Linux 2019.4. of 2020.3 Without external wifi card is recommended.
 Just need internal wifi card is recommended.
 
-## :octocat: Credits
-1. l3op - contributor
-2. dlinkproto - contributor
-3. vk496 - developer of linset
-4. Derv82 - @Wifite/2
-5. Princeofguilty - @webpages
-6. Photos for wiki @http://www.kalitutorials.net
-7. Ons Ali @wallpaper
-8. PappleTec @sites
+## Credits
+Author: Mahfuzur Rahman <br>
+Credits to : Anonymous Pro HKR Groups <br>
+YTB: https://www.youtube.com/anonymousproo <br>
+facebook: https://web.facebook.com/anonymousproo1 <br>
+web: www.anonymousproo.com <br>
+
 
 ## Disclaimer
 
 ***Fluxion is intended to be used for legal security purposes only, and you should only use it to protect networks/hosts you own or have permission to test. Any other use is not the responsibility of the developer(s).  Be sure that you understand and are complying with the Fluxion licenses and laws in your area.  In other words, don't be stupid, don't be an asshole, and use this tool responsibly and legally.***
+
+**This video is just for an Instructive reason.<br>
+Any activities or potentially exercises identified with the material contained on this YouTube channel is exclusively your responsibility.<br>
+The abuse of the data on this YouTube divert can bring about criminal allegations brought against the people being referred to.<br>
+The creators and anonymous pro professional <br>
+won't be considered capable in the occasion any criminal allegations be brought against any people abusing the data in this [anonymous pro](https://www.youtube.com/watch?v=B8O0sPSN6xI) genius to violate the law.<br>
